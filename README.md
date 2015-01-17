@@ -1,2 +1,2 @@
 # powerdir
-powerfull directory operation
+powerfull directory operation for Linux System
